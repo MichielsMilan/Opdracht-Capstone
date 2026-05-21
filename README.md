@@ -1,18 +1,16 @@
 # Capstone
 
 
-Hoe installeren?
----
 
+## Hoe installeren?
 
-
-
+#### 
 
 #### \-Download Capstone/Filmlijst uit https://github.com/MichielsMilan/Opdracht-Capston
 
+#### 
 
--Installeer visual studio code
----
+#### \-Installeer visual studio code
 
 #### 
 
@@ -24,18 +22,17 @@ Hoe installeren?
 
 #### 
 
-\-Type in de eerste terminal: 'npm run server'
-
--Type in de tweede terminal: 'npm run dev'
-
--Ga naar http://localhost:5173
----
+#### \-In de eerste terminal: ga naar Capstone\\Filmlijst en type 'npm run server'
 
 #### 
 
+#### \-In de tweede terminal: ga naar Capstone\\Filmlijst en type 'npm run dev'
+
+#### 
+
+#### \-Ga naar http://localhost:5173
+
+###### 
+
 # 
-
-
-
-
 
